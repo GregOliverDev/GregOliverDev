@@ -10,5 +10,5 @@
                     Let's collaborate and build amazing things together!
 
 🌐 Connect with me:
-- Email: gregoiverdev@gmail.com
+- Email: gregoliverdev@gmail.com
 
