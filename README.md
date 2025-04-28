@@ -3,7 +3,7 @@
 
 🚀 Skills:
 - **Languages**: C#, C, Java
-- **Web Development**: Angular
+- **Web Development**: Angular, React
 - **Database**: MySQL, Firebird
 
 📚 Always eager to learn and improve, I'm actively working on expanding my knowledge and honing my programming skills. 
