@@ -2,8 +2,8 @@
                     I'm excited about learning and creating in the realm of technology.
 
 🚀 Skills:
-- **Languages**: C#, C, Java
-- **Web Development**: Angular, React
+- **Languages**: C#, C, Java, Flutter, Node, Typescript, Python
+- **Web Development**: React
 - **Database**: MySQL, Firebird
 
 📚 Always eager to learn and improve, I'm actively working on expanding my knowledge and honing my programming skills. 
